@@ -328,6 +328,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-09-30 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-09-30 02:03:51 +0000"

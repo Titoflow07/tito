@@ -16,7 +16,8 @@
       "minecraft:jungle": "2024-09-30 05:40:24 +0000",
       "minecraft:river": "2024-09-30 01:13:53 +0000",
       "minecraft:birch_forest": "2024-09-30 01:11:00 +0000",
-      "minecraft:bamboo_jungle": "2024-09-30 05:19:25 +0000"
+      "minecraft:bamboo_jungle": "2024-09-30 05:19:25 +0000",
+      "minecraft:plains": "2024-09-30 18:14:16 +0000"
     },
     "done": false
   },
@@ -217,7 +218,9 @@
       "minecraft:skeleton": "2024-09-30 04:28:07 +0000",
       "minecraft:enderman": "2024-09-30 04:47:07 +0000",
       "minecraft:spider": "2024-09-30 04:30:43 +0000",
-      "minecraft:zombie": "2024-09-30 04:26:04 +0000"
+      "minecraft:zombie": "2024-09-30 04:26:04 +0000",
+      "minecraft:creeper": "2024-09-30 18:10:30 +0000",
+      "minecraft:drowned": "2024-09-30 18:09:50 +0000"
     },
     "done": false
   },
@@ -1748,6 +1751,42 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-09-30 06:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-09-30 18:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-09-30 18:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-09-30 18:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-09-30 18:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 18:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-09-30 18:10:33 +0000"
     },
     "done": true
   },

@@ -1,483 +1,1271 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652143497 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652146644 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652149747 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652152981 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652156126 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652159468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652162578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652166143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652169216 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652172351 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652175430 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652178511 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652181630 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652184704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652187985 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652191060 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652194245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652209486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652216311 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652219404 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652222575 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652225955 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652229313 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652244579 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652247879 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652250951 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652254041 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652257117 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652260734 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652263847 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652266941 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652270121 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652273195 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652276333 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652279456 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652282578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652285680 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652288806 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652291906 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652295040 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652298292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652301504 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652304742 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652307849 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652310919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652314020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652317149 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652332352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652335645 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652338995 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652342505 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652357679 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/376dea9e-ec7a-4e60-9114-516cded2d89f
-[2J8[0mplayit (v0.15.26): 1727652360770 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:19132 (minecraft-bedrock)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652363857 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:19132 (minecraft-bedrock)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652366927 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:19132 (minecraft-bedrock)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652382176 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:19132 (minecraft-bedrock)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652385418 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:19132 (minecraft-bedrock)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652388509 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:19132 (minecraft-bedrock)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652403759 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:19132 (minecraft-bedrock)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652406994 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:19132 (minecraft-bedrock)
-tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652422309 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727658558132 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652425424 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658561248 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652428546 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658564337 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652443985 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658567482 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652447058 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658570812 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652450522 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658573884 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652466943 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658576972 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652470035 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658580128 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652473188 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658583268 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1727652488392 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658586624 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652491541 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658590024 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
 tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727652494778 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727658593121 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658596207 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658599278 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658602489 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658605560 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658608717 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658611804 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658614957 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658618293 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658621498 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658624602 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658627778 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658631009 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658639191 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658642270 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658645506 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658648672 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658651816 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658654922 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658658020 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658661104 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658664263 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658667371 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658670565 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658673632 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658677130 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658680238 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658683309 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658686386 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658689655 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658692800 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658695926 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658699929 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658703040 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658706274 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658709351 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658712502 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658715605 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658718808 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658721904 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658724997 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658728112 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658731311 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658734493 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658737621 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658740741 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658743841 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658746918 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658750394 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658753482 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658756642 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658759730 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658763058 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658769948 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658773224 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658778383 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658781655 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658784751 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658788034 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658791162 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658794517 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658797826 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658800962 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658804254 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658807396 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658810585 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658813718 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658817049 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658820499 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658823612 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658826686 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658829771 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658832904 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658836018 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658839126 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658842221 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658845313 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658848492 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658851624 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658854733 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658857820 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658860914 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658863974 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658867084 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658870434 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658873720 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658877047 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658880342 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658883448 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658886576 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658890888 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658893953 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658897040 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658900102 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658903231 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658906312 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658909386 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658912577 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658915646 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658918735 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658921807 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658924872 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658927944 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658931058 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658934189 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658937335 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658940499 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658943703 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658946799 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658949860 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658952924 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658956012 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658959142 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658962226 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658965568 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658968659 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658971778 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658974841 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658978020 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658981466 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658984627 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658988063 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658991642 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658994723 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727658997880 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659001066 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659004463 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659007565 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659010691 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659013927 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659017063 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659020169 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659023285 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659026371 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659029782 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659032915 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659035995 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659039659 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659042789 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659046455 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659049583 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659052963 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659056223 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659060202 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659063743 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659067938 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659071113 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659074418 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659077669 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659080762 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659084029 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659087216 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659090426 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659093935 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659097181 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659100312 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659103532 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659106643 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659109850 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659113003 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659116165 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659119695 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659122788 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659125870 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659128960 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659132043 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659135395 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659139039 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659142118 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659145367 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+aug-absence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+these-lightweight.gl.at.ply.gg:3883 => 127.0.0.1:3883 (minecraft-bedrock)
+tips-loaded.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727659148449 tunnel running, 3 tunnels registered
 
 
 TUNNELS

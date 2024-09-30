@@ -463,6 +463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-09-30 05:11:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_the_recipe": "2024-09-30 05:07:48 +0000"
@@ -514,6 +520,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-09-30 04:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-09-30 05:11:37 +0000"
     },
     "done": true
   },
@@ -583,6 +595,12 @@
       "minecraft:zombie": "2024-09-30 04:48:03 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-09-30 05:13:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
@@ -659,6 +677,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-09-30 04:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-09-30 05:13:27 +0000"
     },
     "done": true
   },

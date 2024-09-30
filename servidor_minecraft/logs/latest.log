@@ -74,3 +74,8 @@
 [01:13:24] [Server thread/INFO]: DannYel023[/127.17.97.18:53577] logged in with entity id 534 at ([world]-44.079901881641476, 63.0, 10.32112794854143)
 [01:13:59] [Server thread/INFO]: DannYel023 lost connection: Disconnected
 [01:13:59] [Server thread/INFO]: DannYel023 left the game
+[01:41:23] [User Authenticator #2/INFO]: UUID of player ale1502 is ec3dd2cb-204d-30b4-848a-9e17d4d14f3a
+[01:41:27] [Server thread/INFO]: ale1502 joined the game
+[01:41:27] [Server thread/INFO]: ale1502[/127.61.32.229:35637] logged in with entity id 635 at ([world]-6.5, 64.0, 32.5)
+[01:42:07] [Server thread/INFO]: ale1502 was slain by Zombie
+[01:43:35] [Server thread/INFO]: ale1502 was blown up by Creeper

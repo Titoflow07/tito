@@ -490,6 +490,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_rabbit": "2024-09-30 04:44:21 +0000",
       "cooked_salmon": "2024-09-30 04:34:15 +0000"
     },
     "done": false
@@ -497,6 +498,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-09-30 04:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
     },
     "done": true
   },
@@ -518,6 +525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 04:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-09-30 04:42:33 +0000"
@@ -530,9 +543,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-09-30 04:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
     },
     "done": true
   },
@@ -545,6 +570,24 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-09-30 04:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
     },
     "done": true
   },
@@ -572,9 +615,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 04:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-30 04:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-09-30 04:48:17 +0000"
     },
     "done": true
   },
@@ -590,15 +645,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-30 04:40:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-30 04:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-09-30 04:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-09-30 04:44:01 +0000"
     },
     "done": true
   },

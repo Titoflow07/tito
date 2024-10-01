@@ -2172,5 +2172,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-01 14:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-01 14:25:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

@@ -67,3 +67,8 @@
 [14:04:28] [User Authenticator #0/INFO]: UUID of player DannYel023 is 98212f52-05ac-3a6e-9175-708e333df0ce
 [14:04:30] [Server thread/INFO]: DannYel023 joined the game
 [14:04:30] [Server thread/INFO]: DannYel023[/127.17.97.18:40301] logged in with entity id 53 at ([world]-120.30000001192093, -15.0, -434.5125714763144)
+[14:58:32] [Server thread/INFO]: DannYel023 lost connection: Disconnected
+[14:58:32] [Server thread/INFO]: DannYel023 left the game
+[15:03:57] [User Authenticator #1/INFO]: UUID of player DannYel023 is 98212f52-05ac-3a6e-9175-708e333df0ce
+[15:03:59] [Server thread/INFO]: DannYel023 joined the game
+[15:03:59] [Server thread/INFO]: DannYel023[/127.17.97.18:37347] logged in with entity id 6975 at ([world]-113.90753886547633, -12.0, -467.495943136829)

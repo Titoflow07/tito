@@ -172,3 +172,20 @@
 [03:53:37] [Server thread/INFO]: Akai120 issued server command: /gamemode survival
 [03:53:37] [Server thread/INFO]: [Akai120: Set own game mode to Survival Mode]
 [03:55:45] [Server thread/INFO]: DannYel023 has made the advancement [Isn't It Iron Pick]
+[03:57:19] [Server thread/INFO]: DannYel023 has made the advancement [Diamonds!]
+[03:59:40] [Server thread/INFO]: FrxnJP has made the advancement [Sweet Dreams]
+[03:59:44] [Async Chat Thread - #0/INFO]: [Not Secure] <FrxnJP> zzz
+[04:00:36] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username SanTato17
+[04:00:36] [localSession-7-1/INFO]: [Geyser-Spigot] SanTato17 (logged in as: SanTato17) has connected to the Java server
+[04:00:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as .SanTato17 joined (UUID: 00000000-0000-0000-0009-01f5ab4f0d54)
+[04:00:37] [Server thread/INFO]: .SanTato17 joined the game
+[04:00:37] [Server thread/INFO]: .SanTato17[/127.0.0.1:0] logged in with entity id 12422 at ([world]56.5, 64.0, -501.5)
+[04:01:39] [Server thread/INFO]: Villager Villager['Nitwit'/710, uuid='d977c5da-61eb-484b-95d0-1da76e924c77', l='ServerLevel[world]', x=88.06, y=84.56, z=-817.93, cpos=[5, -52], tl=18709, v=true] died, message: 'Nitwit was slain by Zombie'
+[04:01:39] [Server thread/INFO]: .SanTato17 has made the advancement [Acquire Hardware]
+[04:01:48] [Server thread/INFO]: FrxnJP has made the advancement [Not Today, Thank You]
+[04:02:11] [Server thread/INFO]: .SanTato17 has made the advancement [Stone Age]
+[04:02:57] [Server thread/INFO]: Villager Villager['Villager'/640, uuid='e64a1640-0cb4-48bd-8c69-c9bf17981ca7', l='ServerLevel[world]', x=88.50, y=84.00, z=-818.26, cpos=[5, -52], tl=18986, v=true] died, message: 'Villager was slain by Zombie'
+[04:03:24] [Server thread/INFO]: .SanTato17 has made the advancement [Getting an Upgrade]
+[04:04:03] [Server thread/INFO]: .JECH2000 has made the advancement [Sweet Dreams]
+[04:04:42] [Server thread/INFO]: DannYel023 has made the advancement [Sweet Dreams]
+[04:05:35] [Server thread/INFO]: Akai120 has made the advancement [Suit Up]

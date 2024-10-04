@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2024-10-04 03:26:39 +0000",
       "minecraft:beach": "2024-10-04 03:03:45 +0000",
       "minecraft:forest": "2024-10-04 03:17:36 +0000",
+      "minecraft:river": "2024-10-04 03:59:26 +0000",
       "minecraft:plains": "2024-10-04 03:16:15 +0000"
     },
     "done": false
@@ -128,6 +129,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-10-04 04:05:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-10-04 03:34:20 +0000"
@@ -137,6 +144,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-10-04 03:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-10-04 03:56:24 +0000"
     },
     "done": true
   },
@@ -188,9 +201,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-10-04 03:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-10-04 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-10-04 03:59:21 +0000"
     },
     "done": true
   },
@@ -554,6 +579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-10-04 03:59:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-10-04 03:38:00 +0000"
@@ -629,6 +660,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-10-04 03:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-10-04 03:59:21 +0000"
     },
     "done": true
   },
@@ -1105,7 +1142,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2024-10-04 03:27:29 +0000",
-      "cooked_mutton": "2024-10-04 03:22:56 +0000"
+      "cooked_mutton": "2024-10-04 03:22:56 +0000",
+      "cooked_salmon": "2024-10-04 04:00:41 +0000"
     },
     "done": false
   },
@@ -1310,6 +1348,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-10-04 03:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-10-04 03:56:24 +0000"
     },
     "done": true
   },

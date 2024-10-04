@@ -1033,6 +1033,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:phantom": "2024-10-04 05:43:11 +0000",
       "minecraft:zombie": "2024-10-04 04:39:41 +0000"
     },
     "done": false

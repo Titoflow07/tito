@@ -320,3 +320,20 @@
 [05:31:55] [Server thread/WARN]: .TheDrayes moved too quickly! -271.894365,-11.0,-235.78094999999996
 [05:31:55] [Server thread/WARN]: .TheDrayes moved too quickly! -271.894365,-11.0,-235.78094999999996
 [05:36:43] [Server thread/INFO]: DannYel023 issued server command: /msg Titoflow 10 diamantes el arriendo
+[05:45:03] [Server thread/INFO]: Villager Villager['Farmer'/608, uuid='b97b89f4-7d81-482f-974c-eac3fe7db5fe', l='ServerLevel[world]', x=72.51, y=79.00, z=-829.30, cpos=[4, -52], tl=147042, v=true] died, message: 'Farmer was slain by Zombie'
+[05:48:31] [Async Chat Thread - #3/INFO]: [Not Secure] <.SanTato17> ya me voy menor
+[05:48:44] [Async Chat Thread - #4/INFO]: [Not Secure] <.SanTato17> todo r nañana seguimos
+[05:49:31] [localSession-7-1/INFO]: [Geyser-Spigot] SanTato17 has disconnected from the Java server because of Bedrock client disconnected
+[05:49:31] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .SanTato17 disconnected
+[05:49:31] [Server thread/INFO]: .SanTato17 lost connection: Disconnected
+[05:49:31] [Server thread/INFO]: .SanTato17 left the game
+[05:53:48] [Async Chat Thread - #7/INFO]: [Not Secure] <Akai120> plugins
+[05:53:54] [Server thread/INFO]: Akai120 issued server command: /plugins
+[05:54:25] [Server thread/INFO]: Akai120 issued server command: /nte player Titoflow °
+[05:54:37] [Server thread/INFO]: Akai120 issued server command: /nte player Titoflow °_°
+[05:54:45] [Server thread/INFO]: Akai120 issued server command: /nte player Titoflow °_° prefix
+[05:55:09] [Server thread/INFO]: Akai120 issued server command: /nte player Titoflow prefix °_°
+[05:55:25] [Server thread/INFO]: Akai120 issued server command: /nte player Titoflow prefix
+[05:55:38] [Server thread/INFO]: Akai120 issued server command: /nte player Titoflow clear
+[05:56:18] [Server thread/INFO]: Titoflow has made the advancement [Take Aim]
+[06:01:10] [Server thread/INFO]: .JECH2000 has made the advancement [We Need to Go Deeper]

@@ -11,8 +11,10 @@
       "minecraft:beach": "2024-10-04 03:04:20 +0000",
       "minecraft:forest": "2024-10-04 03:16:44 +0000",
       "minecraft:deep_dark": "2024-10-04 05:45:44 +0000",
+      "minecraft:ocean": "2024-10-04 06:06:24 +0000",
       "minecraft:river": "2024-10-04 04:00:02 +0000",
       "minecraft:meadow": "2024-10-04 04:03:18 +0000",
+      "minecraft:birch_forest": "2024-10-04 06:06:16 +0000",
       "minecraft:stony_shore": "2024-10-04 04:10:31 +0000",
       "minecraft:plains": "2024-10-04 03:04:59 +0000"
     },
@@ -99,6 +101,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-10-04 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-10-04 06:08:04 +0000"
     },
     "done": true
   },
@@ -204,6 +212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-10-04 06:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-10-04 03:38:58 +0000"
@@ -240,9 +254,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-10-04 06:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2024-10-04 03:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-10-04 06:08:04 +0000"
     },
     "done": true
   },
@@ -474,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-10-04 06:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-10-04 04:23:44 +0000"
@@ -525,6 +557,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-10-04 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-10-04 06:08:04 +0000"
     },
     "done": true
   },
@@ -870,6 +908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-10-04 06:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2024-10-04 04:58:58 +0000"
@@ -993,6 +1037,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-10-04 03:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-10-04 06:08:04 +0000"
     },
     "done": true
   },
@@ -1180,6 +1230,7 @@
     "criteria": {
       "minecraft:cave_spider": "2024-10-04 04:27:12 +0000",
       "minecraft:skeleton": "2024-10-04 03:36:24 +0000",
+      "minecraft:piglin": "2024-10-04 06:02:12 +0000",
       "minecraft:spider": "2024-10-04 04:02:29 +0000",
       "minecraft:zombie": "2024-10-04 03:21:48 +0000",
       "minecraft:creeper": "2024-10-04 04:40:02 +0000",
@@ -1310,6 +1361,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-10-04 04:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-10-04 06:08:15 +0000"
     },
     "done": true
   },

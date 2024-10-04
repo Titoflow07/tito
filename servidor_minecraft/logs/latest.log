@@ -142,3 +142,8 @@
 [23:41:03] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .TheDrayes disconnected
 [23:41:03] [Server thread/INFO]: .TheDrayes lost connection: Disconnected
 [23:41:03] [Server thread/INFO]: .TheDrayes left the game
+[23:41:47] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TheDrayes
+[23:41:47] [localSession-7-2/INFO]: [Geyser-Spigot] TheDrayes (logged in as: TheDrayes) has connected to the Java server
+[23:41:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TheDrayes joined (UUID: 00000000-0000-0000-0009-01fa6f803c0f)
+[23:41:47] [Server thread/INFO]: .TheDrayes joined the game
+[23:41:47] [Server thread/INFO]: .TheDrayes[/127.0.0.1:0] logged in with entity id 4328 at ([world]-28.518137, 75.0, -926.29834)

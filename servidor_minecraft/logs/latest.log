@@ -314,3 +314,9 @@
 [05:22:15] [Server thread/WARN]: .TheDrayes moved wrongly!
 [05:22:16] [Server thread/WARN]: .TheDrayes moved wrongly!
 [05:30:47] [Server thread/INFO]: .TheDrayes fell from a high place
+[05:31:17] [Server thread/WARN]: .TheDrayes moved wrongly!
+[05:31:55] [Server thread/INFO]: Akai120 issued server command: /tp .TheDrayes .JECH2000
+[05:31:55] [Server thread/INFO]: [Akai120: Teleported .TheDrayes to .JECH2000]
+[05:31:55] [Server thread/WARN]: .TheDrayes moved too quickly! -271.894365,-11.0,-235.78094999999996
+[05:31:55] [Server thread/WARN]: .TheDrayes moved too quickly! -271.894365,-11.0,-235.78094999999996
+[05:36:43] [Server thread/INFO]: DannYel023 issued server command: /msg Titoflow 10 diamantes el arriendo

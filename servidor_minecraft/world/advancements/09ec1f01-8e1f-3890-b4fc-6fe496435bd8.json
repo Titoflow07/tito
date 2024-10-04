@@ -1355,6 +1355,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-10-04 04:05:14 +0000",
+      "bread": "2024-10-04 05:32:00 +0000",
       "cooked_chicken": "2024-10-04 04:00:55 +0000",
       "rotten_flesh": "2024-10-04 05:05:29 +0000",
       "cooked_mutton": "2024-10-04 04:04:45 +0000",
@@ -1515,6 +1516,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-10-04 03:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-10-04 05:34:14 +0000"
     },
     "done": true
   },

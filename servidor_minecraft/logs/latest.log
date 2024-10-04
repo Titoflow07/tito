@@ -147,3 +147,13 @@
 [23:41:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TheDrayes joined (UUID: 00000000-0000-0000-0009-01fa6f803c0f)
 [23:41:47] [Server thread/INFO]: .TheDrayes joined the game
 [23:41:47] [Server thread/INFO]: .TheDrayes[/127.0.0.1:0] logged in with entity id 4328 at ([world]-28.518137, 75.0, -926.29834)
+[23:41:57] [Async Chat Thread - #4/INFO]: [Not Secure] <.TheDrayes> ahudeme
+[23:42:57] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .TheDrayes disconnected
+[23:42:57] [localSession-7-2/INFO]: [Geyser-Spigot] TheDrayes has disconnected from the Java server because of Bedrock client disconnected
+[23:42:57] [Server thread/INFO]: .TheDrayes lost connection: Disconnected
+[23:42:57] [Server thread/INFO]: .TheDrayes left the game
+[23:44:19] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TheDrayes
+[23:44:19] [localSession-7-3/INFO]: [Geyser-Spigot] TheDrayes (logged in as: TheDrayes) has connected to the Java server
+[23:44:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TheDrayes joined (UUID: 00000000-0000-0000-0009-01fa6f803c0f)
+[23:44:19] [Server thread/INFO]: .TheDrayes joined the game
+[23:44:19] [Server thread/INFO]: .TheDrayes[/127.0.0.1:0] logged in with entity id 4754 at ([world]-14.601385, 73.0, -928.5591)

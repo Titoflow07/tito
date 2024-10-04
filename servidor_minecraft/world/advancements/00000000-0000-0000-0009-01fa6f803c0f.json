@@ -10,6 +10,7 @@
       "minecraft:beach": "2024-10-04 03:18:44 +0000",
       "minecraft:forest": "2024-10-04 03:19:00 +0000",
       "minecraft:river": "2024-10-04 04:41:34 +0000",
+      "minecraft:stony_shore": "2024-10-04 04:53:52 +0000",
       "minecraft:plains": "2024-10-04 03:18:52 +0000"
     },
     "done": false
@@ -650,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-10-04 04:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-04 04:06:28 +0000"
@@ -773,6 +780,12 @@
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2024-10-04 04:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-10-04 04:52:33 +0000"
     },
     "done": true
   },
@@ -1137,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-10-04 04:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-10-04 04:19:08 +0000"
@@ -1175,6 +1194,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-10-04 04:50:59 +0000",
       "bread": "2024-10-04 04:19:29 +0000",
       "rotten_flesh": "2024-10-04 03:42:09 +0000",
       "cooked_beef": "2024-10-04 03:54:19 +0000",
@@ -1257,6 +1277,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-10-04 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-10-04 04:52:33 +0000"
     },
     "done": true
   },

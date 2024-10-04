@@ -1267,6 +1267,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-10-04 04:01:51 +0000",
+      "minecraft:phantom": "2024-10-04 05:19:21 +0000",
       "minecraft:spider": "2024-10-04 05:07:31 +0000",
       "minecraft:zombie": "2024-10-04 03:46:07 +0000",
       "minecraft:creeper": "2024-10-04 03:48:07 +0000",
@@ -1619,7 +1620,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-10-04 03:55:27 +0000",
-      "rotten_flesh": "2024-10-04 03:47:09 +0000"
+      "rotten_flesh": "2024-10-04 03:47:09 +0000",
+      "cooked_beef": "2024-10-04 05:23:36 +0000"
     },
     "done": false
   },

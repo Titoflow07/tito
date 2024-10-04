@@ -1,420 +1,466 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728009342846 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728010969942 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009345918 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728010973281 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009348991 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728010976354 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009352062 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009356577 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009359647 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009362797 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009365899 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009368974 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009372628 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009375718 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009378806 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009381891 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009384961 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009388023 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009391086 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009394175 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009397240 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009400308 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009403387 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009406463 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009409533 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009412595 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009415907 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009418971 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009422051 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009425123 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009428191 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009431257 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009434334 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009437401 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009440465 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009443552 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009446626 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009449691 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009452758 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009455824 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009458889 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009461965 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009465026 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009468111 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009471175 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728009486284 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728010991450 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009489837 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728010994511 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009492906 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728010997575 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009495975 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011000679 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009499040 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011003747 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009502127 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009505401 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009508493 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728009523612 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728011018844 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009526682 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011021922 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009529750 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011024988 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009534557 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011028057 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009537642 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011031123 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009540712 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011034219 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009543785 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728009558902 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728011049336 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009562823 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011052403 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009565884 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011055485 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009568965 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011059501 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009572036 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011062568 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011065633 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011068703 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011071886 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011074955 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011078024 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011081085 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011084152 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011087232 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011090293 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011093361 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011097505 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728009587165 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728011112781 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009590231 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011115850 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009593334 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011118915 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009596400 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011122460 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009600348 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011126722 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728009603437 tunnel running, 1 tunnels registered
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011129788 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011133590 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011136652 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011139724 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011142788 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011145859 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011148932 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011152001 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011155070 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011158141 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011161212 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011164285 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011167370 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011170436 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011173543 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011176626 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011179709 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011182815 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728011198085 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011201154 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011204225 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011208183 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011211242 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011214310 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011217388 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011220467 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728011235581 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011238647 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1728011241734 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+room-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+one-bookings.gl.at.ply.gg:1168 => 127.0.0.1:1168 (minecraft-bedrock)

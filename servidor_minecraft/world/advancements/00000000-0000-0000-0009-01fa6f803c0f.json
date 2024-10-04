@@ -331,6 +331,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-10-04 03:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-10-04 03:25:38 +0000"
@@ -406,6 +412,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-10-04 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-10-04 03:47:27 +0000"
     },
     "done": true
   },
@@ -541,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-10-04 03:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-10-04 03:27:05 +0000"
@@ -598,6 +616,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-10-04 03:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-10-04 03:47:27 +0000"
     },
     "done": true
   },
@@ -757,9 +781,21 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-10-04 03:49:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-10-04 03:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2024-10-04 03:46:05 +0000"
     },
     "done": true
   },

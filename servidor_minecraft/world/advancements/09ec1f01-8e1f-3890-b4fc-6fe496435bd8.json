@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2024-10-04 03:27:39 +0000",
       "minecraft:beach": "2024-10-04 03:05:37 +0000",
       "minecraft:forest": "2024-10-04 03:05:40 +0000",
+      "minecraft:river": "2024-10-04 04:39:30 +0000",
       "minecraft:meadow": "2024-10-04 03:53:44 +0000",
       "minecraft:plains": "2024-10-04 03:05:41 +0000"
     },
@@ -1198,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-10-04 04:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2024-10-04 04:28:16 +0000"
@@ -1264,6 +1271,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-10-04 03:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-10-04 04:44:20 +0000"
     },
     "done": true
   },

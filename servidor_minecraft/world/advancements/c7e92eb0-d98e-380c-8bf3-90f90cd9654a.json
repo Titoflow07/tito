@@ -11,6 +11,7 @@
       "minecraft:beach": "2024-10-04 03:03:45 +0000",
       "minecraft:forest": "2024-10-04 03:17:36 +0000",
       "minecraft:river": "2024-10-04 03:59:26 +0000",
+      "minecraft:meadow": "2024-10-04 04:39:43 +0000",
       "minecraft:stony_shore": "2024-10-04 04:10:31 +0000",
       "minecraft:plains": "2024-10-04 03:16:15 +0000"
     },
@@ -928,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-10-04 04:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-10-04 03:19:13 +0000"
@@ -999,7 +1006,8 @@
       "minecraft:cave_spider": "2024-10-04 04:30:49 +0000",
       "minecraft:skeleton": "2024-10-04 03:30:52 +0000",
       "minecraft:spider": "2024-10-04 03:47:32 +0000",
-      "minecraft:zombie": "2024-10-04 03:26:47 +0000"
+      "minecraft:zombie": "2024-10-04 03:26:47 +0000",
+      "minecraft:creeper": "2024-10-04 04:36:19 +0000"
     },
     "done": false
   },

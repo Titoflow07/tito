@@ -38,6 +38,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-10-04 03:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-10-04 03:17:16 +0000"
@@ -80,6 +86,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-10-04 03:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-10-04 03:38:25 +0000"
@@ -101,6 +113,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-10-04 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-10-04 03:41:42 +0000"
     },
     "done": true
   },
@@ -320,6 +338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-10-04 03:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-10-04 03:20:49 +0000"
@@ -359,6 +383,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-10-04 03:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-10-04 03:41:43 +0000"
     },
     "done": true
   },
@@ -633,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-10-04 03:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-10-04 03:18:35 +0000"
@@ -667,7 +703,8 @@
     "criteria": {
       "cooked_porkchop": "2024-10-04 03:20:45 +0000",
       "rotten_flesh": "2024-10-04 03:31:16 +0000",
-      "cooked_mutton": "2024-10-04 03:33:45 +0000"
+      "cooked_mutton": "2024-10-04 03:33:45 +0000",
+      "cooked_beef": "2024-10-04 03:45:57 +0000"
     },
     "done": false
   },
@@ -686,6 +723,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-10-04 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-10-04 03:41:43 +0000"
     },
     "done": true
   },
@@ -749,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-10-04 03:42:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-10-04 03:18:35 +0000"
@@ -779,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-10-04 03:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-10-04 03:38:25 +0000"
@@ -806,6 +861,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-10-04 03:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-10-04 03:41:42 +0000"
     },
     "done": true
   },

@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-10-04 04:17:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-10-04 03:34:44 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-10-04 04:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-10-04 03:25:29 +0000"
@@ -422,6 +434,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-10-04 03:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-10-04 04:26:14 +0000"
     },
     "done": true
   },
@@ -641,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-10-04 04:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-10-04 03:29:05 +0000"
@@ -773,9 +797,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-10-04 04:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-10-04 03:27:45 +0000"
+      "minecraft:skeleton": "2024-10-04 03:27:45 +0000",
+      "minecraft:spider": "2024-10-04 04:26:12 +0000"
     },
     "done": false
   },
@@ -884,6 +915,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-10-04 03:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-10-04 04:26:14 +0000"
     },
     "done": true
   },
@@ -1030,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-10-04 04:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-10-04 04:01:26 +0000"
@@ -1058,7 +1101,8 @@
     "criteria": {
       "mutton": "2024-10-04 03:54:07 +0000",
       "bread": "2024-10-04 04:02:07 +0000",
-      "cooked_mutton": "2024-10-04 03:33:23 +0000"
+      "cooked_mutton": "2024-10-04 03:33:23 +0000",
+      "cooked_beef": "2024-10-04 04:17:52 +0000"
     },
     "done": false
   },
@@ -1173,6 +1217,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-10-04 03:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-10-04 04:26:14 +0000"
     },
     "done": true
   },

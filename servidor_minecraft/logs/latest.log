@@ -1,104 +1,65 @@
-[19:50:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.8.0-1014-azure (amd64)
-[19:50:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[19:50:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:50:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[19:50:20] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.4.3-SNAPSHOT), ViaVersion (5.0.3), floodgate (2.2.3-SNAPSHOT (b112-0360721))
-[19:50:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:50:26] [ServerMain/INFO]: Loaded 1290 recipes
-[19:50:26] [ServerMain/INFO]: Loaded 1399 advancements
-[19:50:26] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:50:26] [Server thread/INFO]: Loading properties
-[19:50:26] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[19:50:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[19:50:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:50:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:50:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[19:50:28] [Server thread/INFO]: Default game type: SURVIVAL
-[19:50:28] [Server thread/INFO]: Generating keypair
-[19:50:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:50:28] [Server thread/INFO]: Using epoll channel type
-[19:50:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:50:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[19:50:29] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b112-0360721)
-[19:50:31] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[19:50:31] [Server thread/INFO]: [floodgate] Took 2,026ms to boot Floodgate
-[19:50:31] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
-[19:50:31] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
-[19:50:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:50:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:50:33] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.3-SNAPSHOT
-[19:50:35] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[19:50:35] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[19:50:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:50:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:50:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:50:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:50:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:50:35] [Server thread/INFO]: Preparing level "world"
-[19:50:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:50:37] [Server thread/INFO]: Time elapsed: 1053 ms
-[19:50:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:50:37] [Server thread/INFO]: Time elapsed: 304 ms
-[19:50:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:50:37] [Server thread/INFO]: Time elapsed: 115 ms
-[19:50:37] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
-[19:50:38] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
-[19:50:38] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
-[19:50:38] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
-[19:50:38] [Server thread/WARN]: [ViaVersion] Please remember that ViaVersion only adds support for versions newer than the server version.
-[19:50:38] [Server thread/WARN]: [ViaVersion] If you need support for older versions you may need to use one or more ViaVersion addons too.
-[19:50:38] [Server thread/WARN]: [ViaVersion] In that case please read the ViaVersion resource page carefully or use https://viaversion.com/setup
-[19:50:38] [Server thread/WARN]: [ViaVersion] and if you're still unsure, feel free to join our Discord-Server for further assistance.
-[19:50:38] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.3-SNAPSHOT
-[19:50:39] [Server thread/INFO]: [spark] Starting background profiler...
-[19:50:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[19:50:39] [Server thread/INFO]: [Geyser-Spigot] 
-[19:50:39] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.3-b680 (git-master-84dac08)
-[19:50:39] [Server thread/INFO]: [Geyser-Spigot] 
-[19:50:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[19:50:47] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3883
-[19:50:47] [Server thread/INFO]: [Geyser-Spigot] Done (7.78s)! Run /geyser help for help!
-[19:50:47] [Server thread/INFO]: Done preparing level "world" (11.777s)
-[19:50:47] [Server thread/INFO]: Running delayed init tasks
-[19:50:47] [Server thread/INFO]: Done (28.228s)! For help, type "help"
-[19:50:47] [Server thread/INFO]: Timings Reset
-[19:50:47] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[19:51:02] [User Authenticator #0/INFO]: UUID of player DannYel023 is 98212f52-05ac-3a6e-9175-708e333df0ce
-[19:51:04] [Server thread/INFO]: DannYel023 joined the game
-[19:51:04] [Server thread/INFO]: DannYel023[/127.17.97.18:52129] logged in with entity id 51 at ([world]-85.69999998807907, 73.0, -486.2228824581659)
-[19:52:52] [Server thread/INFO]: DannYel023 has made the advancement [Not Today, Thank You]
-[20:05:18] [Server thread/INFO]: DannYel023 lost connection: Timed out
-[20:05:18] [Server thread/INFO]: DannYel023 left the game
-[20:05:31] [User Authenticator #1/INFO]: UUID of player DannYel023 is 98212f52-05ac-3a6e-9175-708e333df0ce
-[20:05:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d17f0d3[id=98212f52-05ac-3a6e-9175-708e333df0ce,name=DannYel023,properties={}] lost connection: Disconnected
-[20:05:43] [Server thread/INFO]: Stopping the server
-[20:05:43] [Server thread/INFO]: Stopping server
-[20:05:43] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.3-SNAPSHOT
-[20:05:43] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[20:05:43] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[20:05:43] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
-[20:05:43] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[20:05:43] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
-[20:05:43] [Server thread/INFO]: Saving players
-[20:05:43] [WebSocketConnectReadThread-85/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[20:05:43] [Server thread/INFO]: Saving worlds
-[20:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world' in 0.10s
-[20:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 20 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
-[20:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[20:05:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
-[20:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:35:39] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[02:35:39] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[02:35:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:35:40] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:35:42] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[02:35:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:35:55] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:35:55] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[02:35:57] [ServerMain/INFO]: No existing world data, creating new world
+[02:35:59] [ServerMain/INFO]: Loaded 1290 recipes
+[02:36:00] [ServerMain/INFO]: Loaded 1399 advancements
+[02:36:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:36:01] [Server thread/INFO]: Loading properties
+[02:36:01] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:36:01] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 19521ms.
+[02:36:02] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:36:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:36:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:36:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:36:04] [Server thread/INFO]: Default game type: SURVIVAL
+[02:36:04] [Server thread/INFO]: Generating keypair
+[02:36:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:36:05] [Server thread/INFO]: Using epoll channel type
+[02:36:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:36:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:36:05] [Server thread/INFO]: Preparing level "world"
+[02:36:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:36:35] [Server thread/INFO]: Time elapsed: 12556 ms
+[02:36:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:36:38] [Server thread/INFO]: Time elapsed: 2713 ms
+[02:36:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:36:39] [Server thread/INFO]: Time elapsed: 1268 ms
+[02:36:39] [Server thread/INFO]: [spark] Starting background profiler...
+[02:36:40] [Server thread/INFO]: Done preparing level "world" (35.492s)
+[02:36:40] [Server thread/INFO]: Running delayed init tasks
+[02:36:40] [Server thread/INFO]: Done (63.370s)! For help, type "help"
+[02:36:40] [Server thread/INFO]: *************************************************************************************
+[02:36:40] [Server thread/INFO]: This is the first time you're starting this server.
+[02:36:40] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[02:36:40] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[02:36:40] [Server thread/INFO]: *************************************************************************************
+[02:36:40] [Server thread/INFO]: Timings Reset
+[02:38:36] [Server thread/INFO]: Stopping the server
+[02:38:36] [Server thread/INFO]: Stopping server
+[02:38:36] [Server thread/INFO]: Saving players
+[02:38:36] [Server thread/INFO]: Saving worlds
+[02:38:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:38:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:38:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:38:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:38:39] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 2.87s
+[02:38:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:38:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:38:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:38:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:38:41] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 1.09s
+[02:38:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:38:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:38:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:38:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:38:42] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.88s
+[02:38:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:38:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:38:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:38:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

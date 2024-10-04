@@ -18,9 +18,6 @@ messages:
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
 settings:
-  bungeecord: false
-  save-user-cache-on-stop-only: false
-  sample-count: 12
   player-shuffle: 0
   user-cache-size: 1000
   moved-wrongly-threshold: 0.0625
@@ -40,11 +37,11 @@ settings:
       max: 2048.0
   log-villager-deaths: true
   log-named-deaths: true
+  bungeecord: false
+  save-user-cache-on-stop-only: false
+  sample-count: 12
   debug: false
 commands:
-  tab-complete: 0
-  send-namespaced: true
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -53,6 +50,11 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
+  tab-complete: 0
+  send-namespaced: true
+players:
+  disable-saving: false
 advancements:
   disable-saving: false
   disabled:
@@ -173,8 +175,6 @@ world-settings:
       tile: 50
       entity: 50
     verbose: false
-players:
-  disable-saving: false
 config-version: 12
 stats:
   disable-saving: false

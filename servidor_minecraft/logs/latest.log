@@ -261,3 +261,49 @@
 [04:58:21] [Server thread/WARN]: Oak Boat (vehicle of FrxnJP) moved wrongly! 1.0509655262820274
 [04:58:21] [Server thread/WARN]: Oak Boat (vehicle of FrxnJP) moved wrongly! 0.7333326876522506
 [04:58:21] [Server thread/WARN]: Oak Boat (vehicle of FrxnJP) moved wrongly! 0.37633328196460525
+[04:59:24] [localSession-7-2/INFO]: [Geyser-Spigot] TheDrayes has disconnected from the Java server because of Bedrock client disconnected
+[04:59:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .TheDrayes disconnected
+[04:59:24] [Server thread/INFO]: .TheDrayes lost connection: Disconnected
+[04:59:24] [Server thread/INFO]: .TheDrayes left the game
+[04:59:24] [Server thread/INFO]: Attempt to teleport removed player .TheDrayes restricted
+[04:59:26] [Server thread/INFO]: Titoflow has made the advancement [Ice Bucket Challenge]
+[04:59:48] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TheDrayes
+[04:59:48] [localSession-7-3/INFO]: [Geyser-Spigot] TheDrayes (logged in as: TheDrayes) has connected to the Java server
+[04:59:48] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TheDrayes joined (UUID: 00000000-0000-0000-0009-01fa6f803c0f)
+[04:59:49] [Server thread/INFO]: .TheDrayes joined the game
+[04:59:49] [Server thread/INFO]: .TheDrayes[/127.0.0.1:0] logged in with entity id 31858 at ([world]126.39285278320312, 62.23747863769531, -1022.3780517578125)
+[05:00:07] [Server thread/WARN]: Oak Boat (vehicle of Akai120) moved wrongly! 0.329587283609726
+[05:00:11] [Server thread/WARN]: Oak Boat (vehicle of Titoflow) moved wrongly! 0.2588923699336192
+[05:00:18] [Server thread/WARN]: Oak Boat (vehicle of Titoflow) moved wrongly! 0.35471061261682735
+[05:00:18] [Server thread/WARN]: Oak Boat (vehicle of Titoflow) moved wrongly! 0.5269010167432953
+[05:00:18] [Server thread/WARN]: Oak Boat (vehicle of Titoflow) moved wrongly! 0.5269010167432953
+[05:00:18] [Server thread/WARN]: Oak Boat (vehicle of Titoflow) moved wrongly! 0.3093424611865885
+[05:00:19] [Server thread/WARN]: Oak Boat (vehicle of Titoflow) moved wrongly! 0.38631899687356963
+[05:00:29] [Server thread/WARN]: Oak Boat (vehicle of FrxnJP) moved wrongly! 0.3906422132474076
+[05:01:35] [localSession-7-3/INFO]: [Geyser-Spigot] TheDrayes has disconnected from the Java server because of Bedrock client disconnected
+[05:01:35] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .TheDrayes disconnected
+[05:01:35] [Server thread/INFO]: .TheDrayes lost connection: Disconnected
+[05:01:35] [Server thread/INFO]: .TheDrayes left the game
+[05:02:01] [Server thread/INFO]: Akai120 has made the advancement [Fishy Business]
+[05:02:04] [Server thread/WARN]: Oak Boat (vehicle of .JECH2000) moved wrongly! 0.2532009549373033
+[05:02:17] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TheDrayes
+[05:02:17] [localSession-7-4/INFO]: [Geyser-Spigot] TheDrayes (logged in as: TheDrayes) has connected to the Java server
+[05:02:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TheDrayes joined (UUID: 00000000-0000-0000-0009-01fa6f803c0f)
+[05:02:18] [Server thread/INFO]: .TheDrayes joined the game
+[05:02:18] [Server thread/INFO]: .TheDrayes[/127.0.0.1:0] logged in with entity id 32679 at ([world]172.97804, 94.0, -886.621)
+[05:03:09] [Server thread/INFO]: FrxnJP has made the advancement [Ice Bucket Challenge]
+[05:03:40] [Server thread/INFO]: .SanTato17 has made the advancement [Sweet Dreams]
+[05:04:04] [localSession-7-1/INFO]: [Geyser-Spigot] SanTato17 has disconnected from the Java server because of Bedrock client disconnected
+[05:04:04] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .SanTato17 disconnected
+[05:04:04] [Server thread/INFO]: .SanTato17 lost connection: Disconnected
+[05:04:04] [Server thread/INFO]: .SanTato17 left the game
+[05:04:28] [Server thread/INFO]: FrxnJP has made the advancement [Cover Me with Diamonds]
+[05:04:38] [Server thread/INFO]: DannYel023 has made the advancement [We Need to Go Deeper]
+[05:04:46] [Server thread/INFO]: .TheDrayes has made the advancement [We Need to Go Deeper]
+[05:04:50] [Server thread/INFO]: FrxnJP has made the advancement [We Need to Go Deeper]
+[05:05:37] [Server thread/INFO]: Akai120 has made the advancement [We Need to Go Deeper]
+[05:05:59] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username SanTato17
+[05:05:59] [localSession-7-1/INFO]: [Geyser-Spigot] SanTato17 (logged in as: SanTato17) has connected to the Java server
+[05:06:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .SanTato17 joined (UUID: 00000000-0000-0000-0009-01f5ab4f0d54)
+[05:06:00] [Server thread/INFO]: .SanTato17 joined the game
+[05:06:00] [Server thread/INFO]: .SanTato17[/127.0.0.1:0] logged in with entity id 34207 at ([world]88.5, 84.0, -819.5)

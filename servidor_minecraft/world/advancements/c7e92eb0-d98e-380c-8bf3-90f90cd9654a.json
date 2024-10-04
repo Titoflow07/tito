@@ -419,9 +419,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-10-04 05:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-10-04 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-10-04 05:02:02 +0000"
     },
     "done": true
   },
@@ -434,6 +446,18 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2024-10-04 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-10-04 05:05:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-10-04 04:56:36 +0000"
     },
     "done": true
   },
@@ -482,6 +506,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-04 03:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-10-04 05:05:37 +0000"
     },
     "done": true
   },
@@ -695,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-10-04 05:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-10-04 03:38:00 +0000"
@@ -755,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-10-04 04:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-04 03:43:23 +0000"
@@ -770,6 +812,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-10-04 03:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-10-04 05:05:45 +0000"
     },
     "done": true
   },
@@ -860,6 +908,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-10-04 03:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-10-04 05:05:45 +0000"
     },
     "done": true
   },
@@ -1007,7 +1061,8 @@
       "minecraft:skeleton": "2024-10-04 03:30:52 +0000",
       "minecraft:spider": "2024-10-04 03:47:32 +0000",
       "minecraft:zombie": "2024-10-04 03:26:47 +0000",
-      "minecraft:creeper": "2024-10-04 04:36:19 +0000"
+      "minecraft:creeper": "2024-10-04 04:36:19 +0000",
+      "minecraft:drowned": "2024-10-04 04:59:25 +0000"
     },
     "done": false
   },
@@ -1032,6 +1087,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-10-04 03:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-10-04 05:02:02 +0000"
     },
     "done": true
   },
@@ -1320,6 +1381,12 @@
       "cooked_salmon": "2024-10-04 04:00:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-10-04 05:02:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {

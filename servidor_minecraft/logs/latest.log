@@ -106,3 +106,11 @@
 [00:30:14] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .TheDrayes disconnected
 [00:30:14] [Server thread/INFO]: .TheDrayes lost connection: Disconnected
 [00:30:14] [Server thread/INFO]: .TheDrayes left the game
+[00:39:28] [User Authenticator #0/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
+[00:39:34] [Server thread/INFO]: FrxnJP joined the game
+[00:39:34] [Server thread/INFO]: FrxnJP[/127.132.173.237:34241] logged in with entity id 1011 at ([world]-13.473992836910577, 84.29499998688698, -925.6999999880791)
+[00:39:39] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TheDrayes
+[00:39:39] [localSession-7-4/INFO]: [Geyser-Spigot] TheDrayes (logged in as: TheDrayes) has connected to the Java server
+[00:39:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TheDrayes joined (UUID: 00000000-0000-0000-0009-01fa6f803c0f)
+[00:39:40] [Server thread/INFO]: .TheDrayes joined the game
+[00:39:40] [Server thread/INFO]: .TheDrayes[/127.0.0.1:0] logged in with entity id 1156 at ([world]-12.338443, 66.0, -918.30001)

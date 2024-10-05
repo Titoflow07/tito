@@ -1,30 +1,26 @@
-[05:49:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
-[05:49:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[05:49:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:49:15] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/AngelChest-13.6.1.jar'...
-[05:49:15] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/EssentialsA-1.0.92.jar'...
-[05:49:19] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/EssentialsA-1.0.92.jar' in 3785ms.
-[05:49:20] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AngelChest-13.6.1.jar' in 5466ms.
-[05:49:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[05:49:21] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[05:52:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[05:52:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[05:52:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:52:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[05:52:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - AngelChest (13.6.1), BlockLocker (1.12.2), EssentialsA (1.0.92), Geyser-Spigot (2.4.3-SNAPSHOT), LuckPerms (5.4.131), NametagEdit (4.5.24), SkinsRestorer (15.4.3), ViaVersion (5.0.3), floodgate (2.2.3-SNAPSHOT (b112-0360721))
-[05:49:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:49:36] [ServerMain/INFO]: Loaded 1290 recipes
-[05:49:36] [ServerMain/INFO]: Loaded 1399 advancements
-[05:49:37] [Server thread/INFO]: Starting minecraft server version 1.21
-[05:49:37] [Server thread/INFO]: Loading properties
-[05:49:37] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[05:49:39] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:49:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:49:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:49:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[05:49:41] [Server thread/INFO]: Default game type: SURVIVAL
-[05:49:41] [Server thread/INFO]: Generating keypair
-[05:49:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:49:42] [Server thread/INFO]: Using epoll channel type
-[05:49:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:49:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[05:49:42] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/EssentialsA-1.0.92.jar' in 'plugins/.paper-remapped'
+[05:52:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:53:02] [ServerMain/INFO]: Loaded 1290 recipes
+[05:53:03] [ServerMain/INFO]: Loaded 1399 advancements
+[05:53:03] [Server thread/INFO]: Starting minecraft server version 1.21
+[05:53:03] [Server thread/INFO]: Loading properties
+[05:53:03] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[05:53:04] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[05:53:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:53:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:53:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[05:53:06] [Server thread/INFO]: Default game type: SURVIVAL
+[05:53:06] [Server thread/INFO]: Generating keypair
+[05:53:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:53:06] [Server thread/INFO]: Using epoll channel type
+[05:53:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:53:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:53:06] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/EssentialsA-1.0.92.jar' in 'plugins/.paper-remapped'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Vault, PlaceholderAPI]. Please download and install these plugins to run 'EssentialsA'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
@@ -34,165 +30,192 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05:49:48] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
-[05:49:48] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
-[05:49:52] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[05:49:52] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[05:49:54] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b112-0360721)
-[05:49:58] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[05:49:58] [Server thread/INFO]: [floodgate] Took 3,481ms to boot Floodgate
-[05:49:58] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[05:50:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
-[05:50:04] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.6.1
-[05:50:04] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.12.2
-[05:50:04] [Server thread/INFO]: [NametagEdit] Loading server plugin NametagEdit v4.5.24
-[05:50:04] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.3-SNAPSHOT
-[05:50:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[05:50:09] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[05:50:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:50:10] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[05:50:11] [Server thread/INFO]:         __    
-[05:50:11] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[05:50:11] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[05:50:11] [Server thread/INFO]: 
-[05:50:11] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[05:50:11] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[05:50:13] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[05:50:14] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[05:50:14] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4056ms)
-[05:50:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
-[05:50:18] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[05:50:19] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[05:50:20] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[05:50:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:50:21] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.12.2
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:50:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:50:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:50:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:50:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:50:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:50:21] [Server thread/INFO]: Preparing level "world"
-[05:50:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:50:27] [Server thread/INFO]: Time elapsed: 4102 ms
-[05:50:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:50:28] [Server thread/INFO]: Time elapsed: 609 ms
-[05:50:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:50:28] [Server thread/INFO]: Time elapsed: 316 ms
-[05:50:28] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
-[05:50:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
-[05:50:28] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
-[05:50:28] [Server thread/WARN]: [ViaVersion] Please remember that ViaVersion only adds support for versions newer than the server version.
-[05:50:28] [Server thread/WARN]: [ViaVersion] If you need support for older versions you may need to use one or more ViaVersion addons too.
-[05:50:28] [Server thread/WARN]: [ViaVersion] In that case please read the ViaVersion resource page carefully or use https://viaversion.com/setup
-[05:50:28] [Server thread/WARN]: [ViaVersion] and if you're still unsure, feel free to join our Discord-Server for further assistance.
-[05:50:28] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
-[05:50:31] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.6.1
-[05:50:32] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[05:50:32] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[05:50:32] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[05:50:32] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[05:50:32] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[05:50:33] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[05:50:33] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.6.1 (Premium: false)
-[05:50:33] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.24
-[05:50:33] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_21
-[05:50:33] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
-[05:50:33] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.3-SNAPSHOT
-[05:50:36] [Server thread/INFO]: [spark] Starting background profiler...
-[05:50:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[05:50:38] [Server thread/INFO]: [Geyser-Spigot] 
-[05:50:38] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.3-b680 (git-master-84dac08)
-[05:50:38] [Server thread/INFO]: [Geyser-Spigot] 
-[05:50:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[05:50:55] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1168
-[05:50:55] [Server thread/INFO]: [Geyser-Spigot] Done (16.995s)! Run /geyser help for help!
-[05:50:55] [Server thread/INFO]: Done preparing level "world" (34.008s)
-[05:50:55] [Server thread/INFO]: Running delayed init tasks
-[05:50:55] [Server thread/INFO]: Done (104.932s)! For help, type "help"
-[05:50:55] [Server thread/INFO]: Timings Reset
-[05:50:56] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[05:50:56] [Server thread/INFO]: FrxnJP (/127.132.173.237:53361) lost connection: Disconnected
-[05:50:56] [User Authenticator #0/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
-[05:50:58] [Server thread/INFO]: [AngelChest] ========================================================
-[05:50:58] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[05:50:58] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[05:50:58] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[05:50:58] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[05:50:58] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[05:50:58] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[05:50:58] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[05:50:58] [Server thread/INFO]: [AngelChest] 
-[05:50:58] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[05:50:58] [Server thread/INFO]: [AngelChest] ========================================================
-[05:51:00] [User Authenticator #0/INFO]: UUID of player DannYel023 is 98212f52-05ac-3a6e-9175-708e333df0ce
-[05:51:02] [User Authenticator #0/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
-[05:51:02] [Server thread/INFO]: DannYel023 joined the game
-[05:51:02] [Server thread/INFO]: DannYel023[/127.215.76.175:48963] logged in with entity id 14 at ([world]3.300000011920929, -55.0, -1253.3149082157556)
-[05:51:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2556d294-0dff-4108-a071-2ba826263586, mapped to Bat['Bat'/24, uuid='2556d294-0dff-4108-a071-2ba826263586', l='ServerLevel[world]', x=24.75, y=54.63, z=-1260.15, cpos=[1, -79], tl=997, v=true], can't add Bat['Bat'/32, uuid='2556d294-0dff-4108-a071-2ba826263586', l='ServerLevel[world]', x=32.44, y=52.89, z=-1268.37, cpos=[2, -80], tl=1213, v=false]
-[05:51:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d3e4f45f-4ba1-45d6-a7b2-3a5ea9c1f494, mapped to Bat['Bat'/18, uuid='d3e4f45f-4ba1-45d6-a7b2-3a5ea9c1f494', l='ServerLevel[world]', x=3.31, y=-25.51, z=-1250.97, cpos=[0, -79], tl=3310, v=true], can't add Bat['Bat'/41, uuid='d3e4f45f-4ba1-45d6-a7b2-3a5ea9c1f494', l='ServerLevel[world]', x=-3.16, y=-26.23, z=-1250.41, cpos=[-1, -79], tl=3146, v=false]
-[05:51:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 28ad005f-021c-44c9-bbe1-f26e71421a2a, mapped to Bat['Bat'/20, uuid='28ad005f-021c-44c9-bbe1-f26e71421a2a', l='ServerLevel[world]', x=8.27, y=-23.86, z=-1236.15, cpos=[0, -78], tl=3810, v=true], can't add Bat['Bat'/47, uuid='28ad005f-021c-44c9-bbe1-f26e71421a2a', l='ServerLevel[world]', x=-8.63, y=-25.96, z=-1226.90, cpos=[-1, -77], tl=3212, v=false]
-[05:51:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7e929cbe-72f1-4a91-8764-a710eaef171c, mapped to Bee['Bee'/37, uuid='7e929cbe-72f1-4a91-8764-a710eaef171c', l='ServerLevel[world]', x=63.37, y=82.73, z=-1237.71, cpos=[3, -78], tl=28503, v=true], can't add Bee['Bee'/58, uuid='7e929cbe-72f1-4a91-8764-a710eaef171c', l='ServerLevel[world]', x=73.82, y=87.39, z=-1256.79, cpos=[4, -79], tl=29246, v=false]
-[05:51:04] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e312b03c-b436-4b4a-893c-35260b103c56, mapped to Bee['Bee'/113, uuid='e312b03c-b436-4b4a-893c-35260b103c56', l='ServerLevel[world]', x=-46.21, y=112.86, z=-1187.91, cpos=[-3, -75], tl=197685, v=true], can't add Bee['Bee'/134, uuid='e312b03c-b436-4b4a-893c-35260b103c56', l='ServerLevel[world]', x=-43.66, y=115.20, z=-1179.19, cpos=[-3, -74], tl=197492, v=false]
-[05:51:05] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 616fdf82-b88d-45ca-80b0-c2874676c061, mapped to Axolotl['Axolotl'/149, uuid='616fdf82-b88d-45ca-80b0-c2874676c061', l='ServerLevel[world]', x=59.82, y=9.00, z=-1345.89, cpos=[3, -85], tl=692, v=true], can't add Axolotl['Axolotl'/167, uuid='616fdf82-b88d-45ca-80b0-c2874676c061', l='ServerLevel[world]', x=67.77, y=11.06, z=-1349.50, cpos=[4, -85], tl=944, v=false]
-[05:51:07] [Server thread/INFO]: FrxnJP joined the game
-[05:51:07] [Server thread/INFO]: FrxnJP[/127.132.173.237:39779] logged in with entity id 19 at ([world]-237.58347665416457, 88.0, -1535.2963387557807)
-[05:51:08] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 735d09b6-b818-4793-aa50-48062625b219, mapped to Bat['Bat'/266, uuid='735d09b6-b818-4793-aa50-48062625b219', l='ServerLevel[world]', x=-175.32, y=-10.79, z=-1534.10, cpos=[-11, -96], tl=411, v=true], can't add Bat['Bat'/268, uuid='735d09b6-b818-4793-aa50-48062625b219', l='ServerLevel[world]', x=-182.82, y=-7.80, z=-1537.61, cpos=[-12, -97], tl=492, v=false]
-[05:51:08] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 513c6be2-8d14-45de-8652-1e46e58d88c2, mapped to Bat['Bat'/265, uuid='513c6be2-8d14-45de-8652-1e46e58d88c2', l='ServerLevel[world]', x=-172.34, y=-9.98, z=-1535.24, cpos=[-11, -96], tl=125, v=true], can't add Bat['Bat'/274, uuid='513c6be2-8d14-45de-8652-1e46e58d88c2', l='ServerLevel[world]', x=-179.84, y=-10.19, z=-1540.87, cpos=[-12, -97], tl=206, v=false]
-[05:51:08] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 8492fee7-c6ce-49ac-b882-2606a2257893, mapped to Zombie['Zombie'/245, uuid='8492fee7-c6ce-49ac-b882-2606a2257893', l='ServerLevel[world]', x=-272.89, y=-26.00, z=-1533.89, cpos=[-18, -96], tl=58, v=true], can't add Zombie['Zombie'/281, uuid='8492fee7-c6ce-49ac-b882-2606a2257893', l='ServerLevel[world]', x=-275.22, y=-26.00, z=-1536.27, cpos=[-18, -97], tl=139, v=false]
-[05:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
-[05:51:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a3d16e46-6c88-43da-92b5-a4ce0b702172, mapped to Zombie['Zombie'/336, uuid='a3d16e46-6c88-43da-92b5-a4ce0b702172', l='ServerLevel[world]', x=-189.17, y=-18.00, z=-1597.08, cpos=[-12, -100], tl=70, v=true], can't add Zombie['Zombie'/338, uuid='a3d16e46-6c88-43da-92b5-a4ce0b702172', l='ServerLevel[world]', x=-190.23, y=-17.00, z=-1600.21, cpos=[-12, -101], tl=145, v=false]
-[05:51:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 21b2a383-6105-4470-9364-9d6cae262e4b, mapped to Bee['Bee'/372, uuid='21b2a383-6105-4470-9364-9d6cae262e4b', l='ServerLevel[world]', x=-343.67, y=77.60, z=-1695.02, cpos=[-22, -106], tl=40295, v=true], can't add Bee['Bee'/378, uuid='21b2a383-6105-4470-9364-9d6cae262e4b', l='ServerLevel[world]', x=-321.80, y=75.15, z=-1718.98, cpos=[-21, -108], tl=40628, v=false]
-[05:51:18] [Server thread/INFO]: DannYel023 lost connection: Disconnected
-[05:51:19] [Server thread/INFO]: DannYel023 left the game
-[05:51:20] [Server thread/INFO]: FrxnJP lost connection: Disconnected
-[05:51:20] [Server thread/INFO]: FrxnJP left the game
-[05:51:32] [Server thread/INFO]: Stopping the server
-[05:51:32] [Server thread/INFO]: Stopping server
-[05:51:32] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.3-SNAPSHOT
-[05:51:32] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[05:51:33] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[05:51:33] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.24
-[05:51:33] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.12.2
-[05:51:33] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.6.1
-[05:51:33] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
-[05:51:33] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[05:51:33] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[05:51:33] [Server thread/INFO]: [LuckPerms] Closing storage...
-[05:51:33] [WebSocketConnectReadThread-142/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[05:51:34] [Server thread/INFO]: [LuckPerms] Goodbye!
-[05:51:34] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
-[05:51:34] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
-[05:51:34] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[05:51:34] [Server thread/INFO]: Saving players
-[05:51:34] [Server thread/INFO]: Saving worlds
-[05:51:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:51:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[05:51:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[05:51:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[05:51:35] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.37s
-[05:51:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:51:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[05:51:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[05:51:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[05:51:36] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.27s
-[05:51:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:51:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[05:51:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[05:51:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[05:51:36] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.18s
-[05:51:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:51:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:51:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:51:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:53:09] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[05:53:09] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[05:53:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[05:53:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[05:53:12] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[05:53:15] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[05:53:15] [Server thread/INFO]: [floodgate] Took 2,764ms to boot Floodgate
+[05:53:15] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[05:53:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
+[05:53:15] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.6.1
+[05:53:16] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.12.2
+[05:53:16] [Server thread/INFO]: [NametagEdit] Loading server plugin NametagEdit v4.5.24
+[05:53:16] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.3-SNAPSHOT
+[05:53:18] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[05:53:18] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[05:53:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:53:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[05:53:18] [Server thread/INFO]:         __    
+[05:53:18] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[05:53:18] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:53:18] [Server thread/INFO]: 
+[05:53:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:53:19] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:53:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:53:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:53:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1775ms)
+[05:53:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
+[05:53:21] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[05:53:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[05:53:22] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[05:53:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[05:53:23] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.12.2
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[05:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[05:53:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:53:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:53:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:53:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:53:24] [Server thread/INFO]: Preparing level "world"
+[05:53:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:53:27] [Server thread/INFO]: Time elapsed: 2705 ms
+[05:53:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:53:27] [Server thread/INFO]: Time elapsed: 302 ms
+[05:53:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:53:28] [Server thread/INFO]: Time elapsed: 190 ms
+[05:53:28] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[05:53:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[05:53:28] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+[05:53:28] [Server thread/WARN]: [ViaVersion] Please remember that ViaVersion only adds support for versions newer than the server version.
+[05:53:28] [Server thread/WARN]: [ViaVersion] If you need support for older versions you may need to use one or more ViaVersion addons too.
+[05:53:28] [Server thread/WARN]: [ViaVersion] In that case please read the ViaVersion resource page carefully or use https://viaversion.com/setup
+[05:53:28] [Server thread/WARN]: [ViaVersion] and if you're still unsure, feel free to join our Discord-Server for further assistance.
+[05:53:28] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[05:53:29] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.6.1
+[05:53:30] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[05:53:30] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[05:53:30] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[05:53:30] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[05:53:30] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[05:53:31] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[05:53:31] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.6.1 (Premium: false)
+[05:53:31] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.24
+[05:53:31] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_21
+[05:53:31] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
+[05:53:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.3-SNAPSHOT
+[05:53:32] [Server thread/INFO]: [spark] Starting background profiler...
+[05:53:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:53:33] [Server thread/INFO]: [Geyser-Spigot] 
+[05:53:33] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.3-b680 (git-master-84dac08)
+[05:53:33] [Server thread/INFO]: [Geyser-Spigot] 
+[05:53:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:53:45] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1168
+[05:53:45] [Server thread/INFO]: [Geyser-Spigot] Done (11.532s)! Run /geyser help for help!
+[05:53:45] [Server thread/INFO]: Done preparing level "world" (21.296s)
+[05:53:45] [Server thread/INFO]: Running delayed init tasks
+[05:53:45] [Server thread/INFO]: Done (55.222s)! For help, type "help"
+[05:53:45] [Server thread/INFO]: Timings Reset
+[05:53:45] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[05:53:45] [Server thread/INFO]: FrxnJP (/127.132.173.237:42093) lost connection: Disconnected
+[05:53:45] [User Authenticator #0/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
+[05:53:47] [User Authenticator #0/INFO]: UUID of player DannYel023 is 98212f52-05ac-3a6e-9175-708e333df0ce
+[05:53:48] [Server thread/INFO]: [AngelChest] ========================================================
+[05:53:48] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[05:53:48] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[05:53:48] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[05:53:48] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[05:53:48] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[05:53:48] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[05:53:48] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[05:53:48] [Server thread/INFO]: [AngelChest] 
+[05:53:48] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[05:53:48] [Server thread/INFO]: [AngelChest] ========================================================
+[05:53:49] [Server thread/INFO]: DannYel023 joined the game
+[05:53:49] [Server thread/INFO]: DannYel023[/127.215.76.175:37843] logged in with entity id 14 at ([world]7.056453179468954, -55.0, -1255.733874568201)
+[05:53:52] [User Authenticator #0/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
+[05:53:56] [Server thread/INFO]: FrxnJP joined the game
+[05:53:56] [Server thread/INFO]: FrxnJP[/127.132.173.237:59741] logged in with entity id 161 at ([world]-237.58347665416457, 88.0, -1535.2963387557807)
+[05:54:02] [User Authenticator #0/INFO]: UUID of player Akai120 is c7e92eb0-d98e-380c-8bf3-90f90cd9654a
+[05:54:03] [Server thread/INFO]: Akai120 joined the game
+[05:54:03] [Server thread/INFO]: Akai120[/127.217.87.178:44251] logged in with entity id 354 at ([world]14.054370370173121, 71.0, -901.0449419688207)
+[05:56:05] [User Authenticator #1/INFO]: UUID of player ale1502 is ec3dd2cb-204d-30b4-848a-9e17d4d14f3a
+[05:56:10] [Server thread/INFO]: ale1502 joined the game
+[05:56:10] [Server thread/INFO]: ale1502[/127.61.32.229:36119] logged in with entity id 1222 at ([world]-42.116053562010286, 80.0, -958.4145255601983)
+[06:02:36] [Server thread/INFO]: DannYel023 has made the advancement [Cover Me with Diamonds]
+[06:02:41] [Server thread/WARN]: FrxnJP was kicked for floating too long!
+[06:02:41] [Server thread/INFO]: FrxnJP lost connection: Flying is not enabled on this server
+[06:02:41] [Server thread/INFO]: FrxnJP left the game
+[06:02:48] [User Authenticator #2/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
+[06:02:50] [Server thread/INFO]: FrxnJP joined the game
+[06:02:50] [Server thread/INFO]: FrxnJP[/127.132.173.237:46089] logged in with entity id 3713 at ([world]-247.48305543786446, 62.82309503368483, -1548.6558046996504)
+[06:03:01] [Server thread/INFO]: ale1502 lost connection: Disconnected
+[06:03:01] [Server thread/INFO]: ale1502 left the game
+[06:12:12] [Server thread/INFO]: Akai120 issued server command: /plugins
+[06:15:00] [Server thread/WARN]: Player FrxnJP just tried to change non-editable sign
+[06:16:23] [Server thread/INFO]: FrxnJP has made the advancement [Voluntary Exile]
+[06:18:32] [Server thread/INFO]: Akai120 issued server command: /tp DannYel023 Akai120
+[06:18:32] [Server thread/INFO]: [Akai120: Teleported DannYel023 to Akai120]
+[06:23:11] [Server thread/WARN]: FrxnJP was kicked for floating too long!
+[06:23:11] [Server thread/INFO]: FrxnJP lost connection: Flying is not enabled on this server
+[06:23:11] [Server thread/INFO]: FrxnJP left the game
+[06:23:18] [User Authenticator #3/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
+[06:23:22] [Server thread/INFO]: FrxnJP joined the game
+[06:23:22] [Server thread/INFO]: FrxnJP[/127.132.173.237:52507] logged in with entity id 11761 at ([world]55.591336116498994, 79.17380333872785, -792.3511107692073)
+[06:26:46] [Server thread/INFO]: Villager Villager['Villager'/526, uuid='a4973c78-ea4c-4adf-9bc8-f1ac3ccc85c8', l='ServerLevel[world]', x=102.13, y=80.00, z=-794.24, cpos=[6, -50], tl=440925, v=true] died, message: 'Villager was slain by Vindicator'
+[06:29:32] [Server thread/INFO]: Villager Villager['Fisherman'/511, uuid='2e9aa3c1-9d00-46af-89e9-306088996bcc', l='ServerLevel[world]', x=47.62, y=80.75, z=-765.70, cpos=[2, -48], tl=464475, v=true] died, message: 'Fisherman was slain by FrxnJP'
+[06:45:55] [Server thread/INFO]: FrxnJP has made the advancement [Hidden in the Depths]
+[06:47:46] [Server thread/INFO]: FrxnJP lost connection: Timed out
+[06:47:46] [Server thread/INFO]: FrxnJP left the game
+[06:47:57] [User Authenticator #4/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
+[06:48:11] [Server thread/INFO]: Villager Villager['Nitwit'/502, uuid='6f405b61-5652-4680-9aa1-479aa2f70ff2', l='ServerLevel[world]', x=104.43, y=80.00, z=-794.50, cpos=[6, -50], tl=481487, v=true] died, message: 'Nitwit was slain by Zombie'
+[06:48:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f0732d0[id=040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91,name=FrxnJP,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTcyODAxMjEyMjYxMSwKICAicHJvZmlsZUlkIiA6ICI2OTY1ODFkZjQyNTY0MDI4YjU1ZTk0NTJiNGRlNDBiNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNlOGUwYzQwYjBlOTMxYzc3YzI2NGViMGEwNTBkN2U2ZWJiZTVhYmYzZWE5MmFlMTQ3NTQ4ZTVkM2VjN2JkODIiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9, signature=pgC9xxuMxkvSG93FffhF7rrYQWPAxJgLo4AZoc1XvxLvtADqqglWioG8HJ9uCSnah9j0DgjPuKQ1NSio6q3E6QfTWMaOr/IDUZyC2kMvGgovmEFV9yWAUrjjOkJGjknDWrwm4tAUD81mLOz5R6/cWgykZe4UoVE0RF8/bRsx8lp8iNBl3LRe9ne5aaH+ej2h/0+Ztm/b2ZNFnzC83lQr8eiciNqXPxHcAai3D1skJkvWKvAsyGqeci1MLU6rFaukFVmtnG1XE/m3vUKZsRMC/D71B76W4upw4zZb3BbgfNqFsTwJTrsb3+XWrAfsNq9dHLcg3gkUMLuhpvmo3wRJM95ST2NFYK4rBOnyOOjvsnW+MsgsaMp6bkZPIx/lWJTtNdeMg2pEPhDGknAkk9WgPT4rAjXET1W4Rnv0VdsdYYylDnTbbzf3XsjQPjCMu/h/BcVEtq94S3F9FpFcgrJKYsiZrwE0e8orjIQx21i51Ezs1UiS5pgYOXDJLUoyGS1Dn5VLga45x6ELrj7ii2NIcpyyM1YJ6aaFzCT42Huy/2wham+q3I/0UHa4ofcdTRPmqqeBiLmncDkCIt7RbBO5ZPPADsAjWHML3E+hl7MRA6GqPCzT30a8xI03SOY3D2FOgFNOYH3uJzSpms/mVooeqIkuBcTYE3c+0DL2HI7Jx5E=]]}] lost connection: Timed out
+[06:48:42] [User Authenticator #4/INFO]: UUID of player FrxnJP is 040ca5e2-ca8e-3ceb-96c2-0799c5b5fd91
+[06:48:45] [Server thread/INFO]: FrxnJP joined the game
+[06:48:45] [Server thread/INFO]: FrxnJP[/127.132.173.237:52019] logged in with entity id 18899 at ([world_nether]-74.6492380564754, 14.0, -178.859718940687)
+[06:53:44] [Server thread/INFO]: Akai120 lost connection: Disconnected
+[06:53:44] [Server thread/INFO]: Akai120 left the game
+[06:53:46] [Server thread/INFO]: DannYel023 lost connection: Disconnected
+[06:53:46] [Server thread/INFO]: DannYel023 left the game
+[06:53:53] [Server thread/INFO]: Stopping the server
+[06:53:53] [Server thread/INFO]: Stopping server
+[06:53:53] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.3-SNAPSHOT
+[06:53:53] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[06:53:54] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[06:53:54] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.24
+[06:53:54] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.12.2
+[06:53:54] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.6.1
+[06:53:54] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
+[06:53:54] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[06:53:54] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:53:54] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:53:54] [WebSocketConnectReadThread-110/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[06:53:54] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:53:54] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[06:53:54] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[06:53:54] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[06:53:54] [Server thread/INFO]: Saving players
+[06:53:54] [Server thread/INFO]: FrxnJP lost connection: Server closed
+[06:53:54] [Server thread/INFO]: FrxnJP left the game
+[06:53:54] [Server thread/INFO]: Saving worlds
+[06:53:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:53:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:53:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:53:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:53:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 32 entity chunks, 0 poi chunks in world 'world' in 0.09s
+[06:53:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:53:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:53:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:53:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:53:56] [Server thread/INFO]: [ChunkHolderManager] Saved 726 block chunks, 190 entity chunks, 0 poi chunks in world 'world_nether' in 1.05s
+[06:53:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:53:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:53:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:53:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:53:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
+[06:53:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:53:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:53:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:53:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
